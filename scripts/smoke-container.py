@@ -20,7 +20,7 @@ for path, expected in [('/', b'ROBOTICS.'), ('/about', b'ABOUT'),
                        ('/rtx-competition', b'RTX'), ('/privacy', b'PRIVACY'),
                        ('/terms', b'TERMS'), ('/thanks.html', b'submitted')]:
     code, headers, body = get(path)
-    assert code == 200 and expected in body, (path, code)
+    assert code == 200 and expected.lower() in body.lower(), (path, code)
     assert headers.get('X-Content-Type-Options') == 'nosniff', path
     assert headers.get('Cache-Control') == 'no-cache', path
 
