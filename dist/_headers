@@ -1,0 +1,8 @@
+/*
+  Strict-Transport-Security: max-age=31536000
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: camera=(), microphone=(), geolocation=(), payment=()
+  Content-Security-Policy: default-src 'self'; script-src 'self' https://www.googletagmanager.com; style-src 'self' 'unsafe-inline'; font-src 'self'; img-src 'self' data: https:; frame-src https://www.instagram.com; connect-src 'self' https://*.google-analytics.com https://*.analytics.google.com; form-action https://formsubmit.co; object-src 'none'; base-uri 'self'; upgrade-insecure-requests
+/assets/*
+  Cache-Control: public, max-age=86400

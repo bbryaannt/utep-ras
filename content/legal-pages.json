@@ -1,0 +1,31 @@
+{
+  "privacy": {
+    "title": "Privacy policy",
+    "description": "How the UTEP IEEE RAS website handles contact messages, optional content, and privacy choices.",
+    "sections": [
+      ["Who runs this website", "This website presents the IEEE Robotics & Automation Society student organization at the University of Texas at El Paso. Questions about this policy or information you have shared can be sent to <a href=\"mailto:ieeeras@utep.edu\">ieeeras@utep.edu</a>."],
+      ["Contact messages", "If you use the contact form, you provide your name, email address, message topic, message, and any optional contact details. FormSubmit processes the submission and sends it to the chapter inbox so we can respond. Spam verification may involve Google reCAPTCHA on FormSubmit’s website. Do not include passwords, financial information, or other sensitive information in the message. If you choose your email app instead, your email provider handles the message."],
+      ["Hosting and security", "The site is hosted through OpenAI Sites and its infrastructure providers. They may process network information, browser information, sign-in information, and security cookies needed to serve and protect the site. The chapter does not receive your OpenAI password. This is a public website; visitors do not need a ChatGPT account."],
+      ["Optional Instagram content", "The Instagram profile preview is blocked until you allow optional media in Privacy settings. If enabled, your browser connects to Meta/Instagram, which may use cookies and process your IP address and browser information under its own policies. You can keep optional media off and use the Instagram link instead. Opening an external link is a separate visit to that provider."],
+      ["Analytics", "Analytics is currently not connected to an account, and the site does not send analytics events. If Google Analytics is connected later, it will load only after analytics consent. The prepared integration excludes URL query strings from page locations, disables advertising personalization and Google signals, and respects browser Do Not Track and Global Privacy Control signals. Local page-speed measurements are not sent anywhere."],
+      ["Your choices and storage", "The site remembers your optional-media and analytics choices in browser storage for up to 180 days. A short-lived session timestamp helps discourage repeated contact submissions. These preferences contain no contact-message text. Change or withdraw optional choices through Privacy settings in the footer. Withdrawing consent stops future embed loading; it cannot delete cookies already held by a third-party website."],
+      ["Retention and requests", "Messages that reach the chapter are held in its email inbox for responding and chapter administration. No fixed chapter inbox retention period is currently specified. You may email the chapter to ask about access, correction, or deletion of information you supplied; we will review the request. FormSubmit describes its own submission storage and retention in its documentation."],
+      ["Other providers", "Read <a href=\"https://formsubmit.co/privacy.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">FormSubmit’s privacy policy</a>, <a href=\"https://privacycenter.instagram.com/policy/\" target=\"_blank\" rel=\"noopener noreferrer\">Instagram’s privacy policy</a>, <a href=\"https://policies.google.com/privacy\" target=\"_blank\" rel=\"noopener noreferrer\">Google’s privacy policy</a>, and <a href=\"https://openai.com/policies/privacy-policy/\" target=\"_blank\" rel=\"noopener noreferrer\">OpenAI’s privacy policy</a> for those services’ practices."],
+      ["Changes", "We may update this page when the website’s features or data practices change. The date above identifies the latest update."]
+    ]
+  },
+  "terms": {
+    "title": "Terms & conditions",
+    "description": "Terms for using the UTEP IEEE RAS student organization website.",
+    "sections": [
+      ["About this site", "This website shares information about the UTEP IEEE Robotics & Automation Society student organization, its projects, and ways to get involved. These terms concern this website, not IEEE membership, University enrollment, or competition registration."],
+      ["Information and participation", "Meeting details, project descriptions, and opportunities may change. Contact the chapter if you need to confirm current arrangements. Reading this site, sending a message, or following a link does not register you for a competition or create a sponsorship agreement."],
+      ["Respectful use", "Use the site and contact form responsibly. Do not submit spam, impersonate another person, send malicious content, or try to disrupt the website or bypass its access controls. Provide contact information you are authorized to use."],
+      ["Content and names", "Project photographs, text, and artwork are presented for chapter information. IEEE, IEEE RAS, UTEP, RTX, and other names and logos belong to their respective owners. This website does not grant permission to reuse third-party marks or imply endorsement beyond relationships expressly described. Contact the chapter about reuse of its materials."],
+      ["External services", "External websites and embedded services operate under their own terms and policies. The contact form uses FormSubmit; the optional Instagram preview uses Meta’s services. The chapter does not control their availability or content."],
+      ["Availability", "The website is provided for general information. Content may contain errors or become outdated, and access may be interrupted. Report problems to the chapter so we can review them."],
+      ["Privacy and contact", "See our <a href=\"privacy.html\">Privacy policy</a> for the website’s data practices. For questions about these terms, contact <a href=\"mailto:ieeeras@utep.edu\">ieeeras@utep.edu</a>."],
+      ["Updates", "We may revise these website terms as the site changes. The date above identifies the latest revision."]
+    ]
+  }
+}

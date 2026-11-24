@@ -1,0 +1,27 @@
+name: Validate website and container
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  container:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+      - name: Build and start production container
+        run: docker compose up --build --wait --wait-timeout 120
+      - name: Check served website
+        run: python scripts/smoke-container.py
+      - name: Show container logs
+        if: failure()
+        run: docker compose logs
+      - name: Stop containers
+        if: always()
+        run: docker compose down

@@ -1,0 +1,22 @@
+{
+  "intro": "We’re UTEP’s IEEE Robotics & Automation Society student organization. We bring students together to build robots, compete, and learn from one another.",
+  "welcome": "All majors and experience levels are welcome. We’re a close-knit group: we work on projects, travel to competitions, and spend time together outside the workshop.",
+  "sections": [
+    {
+      "title": "Competition teams",
+      "copy": "Competition teams are our main focus, bringing mechanical, electrical, and software work together. Join a general meeting or a competition team meeting to meet the group, learn more, and get involved."
+    },
+    {
+      "title": "Beyond competitions",
+      "copy": "We also work on fun projects, run occasional workshops, and organize social events and hangouts. We work closely with IEEE, which focuses on helping students build professional skills."
+    },
+    {
+      "title": "Our chapter",
+      "copy": "IEEE RAS has a history at UTEP. After a period of inactivity, students revived the chapter over the past few years. Since the restart, we’ve competed at the IEEE Region 5 Robotics Competition, finishing 7th out of 30 teams."
+    },
+    {
+      "title": "Partners & sponsors",
+      "copy": "We’re looking for partners and sponsors to support our teams. Opportunities for recognition include our website and competition vehicles."
+    }
+  ]
+}

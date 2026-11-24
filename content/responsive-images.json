@@ -1,0 +1,240 @@
+{
+  "assets/rover.jpg": {
+    "width": 1650,
+    "height": 2200,
+    "original_bytes": 813352,
+    "variants": [
+      {
+        "width": 320,
+        "path": "assets/rover-320.webp",
+        "bytes": 16060,
+        "avif": "assets/rover-320.avif",
+        "avif_bytes": 13027
+      },
+      {
+        "width": 480,
+        "path": "assets/rover-480.webp",
+        "bytes": 30874,
+        "avif": "assets/rover-480.avif",
+        "avif_bytes": 25391
+      },
+      {
+        "width": 640,
+        "path": "assets/rover-640.webp",
+        "bytes": 50542,
+        "avif": "assets/rover-640.avif",
+        "avif_bytes": 41052
+      },
+      {
+        "width": 960,
+        "path": "assets/rover-960.webp",
+        "bytes": 99258,
+        "avif": "assets/rover-960.avif",
+        "avif_bytes": 82535
+      },
+      {
+        "width": 1440,
+        "path": "assets/rover-1440.webp",
+        "bytes": 181566,
+        "avif": "assets/rover-1440.avif",
+        "avif_bytes": 157003
+      }
+    ]
+  },
+  "assets/garage-occupancy-sensor.jpg": {
+    "width": 1500,
+    "height": 2000,
+    "original_bytes": 548860,
+    "variants": [
+      {
+        "width": 320,
+        "path": "assets/garage-occupancy-sensor-320.webp",
+        "bytes": 6812,
+        "avif": "assets/garage-occupancy-sensor-320.avif",
+        "avif_bytes": 8256
+      },
+      {
+        "width": 480,
+        "path": "assets/garage-occupancy-sensor-480.webp",
+        "bytes": 15262,
+        "avif": "assets/garage-occupancy-sensor-480.avif",
+        "avif_bytes": 17811
+      },
+      {
+        "width": 640,
+        "path": "assets/garage-occupancy-sensor-640.webp",
+        "bytes": 26538,
+        "avif": "assets/garage-occupancy-sensor-640.avif",
+        "avif_bytes": 30858
+      },
+      {
+        "width": 960,
+        "path": "assets/garage-occupancy-sensor-960.webp",
+        "bytes": 55530,
+        "avif": "assets/garage-occupancy-sensor-960.avif",
+        "avif_bytes": 63594
+      },
+      {
+        "width": 1440,
+        "path": "assets/garage-occupancy-sensor-1440.webp",
+        "bytes": 105976,
+        "avif": "assets/garage-occupancy-sensor-1440.avif",
+        "avif_bytes": 124096
+      }
+    ]
+  },
+  "assets/rtx-pop-art.png": {
+    "width": 1086,
+    "height": 1448,
+    "original_bytes": 2710597,
+    "variants": [
+      {
+        "width": 320,
+        "path": "assets/rtx-pop-art-320.webp",
+        "bytes": 27658,
+        "avif": "assets/rtx-pop-art-320.avif",
+        "avif_bytes": 17932
+      },
+      {
+        "width": 480,
+        "path": "assets/rtx-pop-art-480.webp",
+        "bytes": 51582,
+        "avif": "assets/rtx-pop-art-480.avif",
+        "avif_bytes": 33174
+      },
+      {
+        "width": 640,
+        "path": "assets/rtx-pop-art-640.webp",
+        "bytes": 81656,
+        "avif": "assets/rtx-pop-art-640.avif",
+        "avif_bytes": 54504
+      },
+      {
+        "width": 960,
+        "path": "assets/rtx-pop-art-960.webp",
+        "bytes": 151910,
+        "avif": "assets/rtx-pop-art-960.avif",
+        "avif_bytes": 111436
+      }
+    ]
+  },
+  "assets/rover-magazine-cutout.png": {
+    "width": 1223,
+    "height": 1286,
+    "original_bytes": 2570901,
+    "variants": [
+      {
+        "width": 320,
+        "path": "assets/rover-magazine-cutout-320.webp",
+        "bytes": 32394,
+        "avif": "assets/rover-magazine-cutout-320.avif",
+        "avif_bytes": 18716
+      },
+      {
+        "width": 480,
+        "path": "assets/rover-magazine-cutout-480.webp",
+        "bytes": 61422,
+        "avif": "assets/rover-magazine-cutout-480.avif",
+        "avif_bytes": 34244
+      },
+      {
+        "width": 640,
+        "path": "assets/rover-magazine-cutout-640.webp",
+        "bytes": 97432,
+        "avif": "assets/rover-magazine-cutout-640.avif",
+        "avif_bytes": 51323
+      },
+      {
+        "width": 960,
+        "path": "assets/rover-magazine-cutout-960.webp",
+        "bytes": 185548,
+        "avif": "assets/rover-magazine-cutout-960.avif",
+        "avif_bytes": 91141
+      }
+    ]
+  },
+  "assets/rover-competition-team.jpg": {
+    "width": 1800,
+    "height": 1350,
+    "original_bytes": 766914,
+    "variants": [
+      {
+        "width": 320,
+        "path": "assets/rover-competition-team-320.webp",
+        "bytes": 15880,
+        "avif": "assets/rover-competition-team-320.avif",
+        "avif_bytes": 11153
+      },
+      {
+        "width": 480,
+        "path": "assets/rover-competition-team-480.webp",
+        "bytes": 30262,
+        "avif": "assets/rover-competition-team-480.avif",
+        "avif_bytes": 21396
+      },
+      {
+        "width": 640,
+        "path": "assets/rover-competition-team-640.webp",
+        "bytes": 47720,
+        "avif": "assets/rover-competition-team-640.avif",
+        "avif_bytes": 34888
+      },
+      {
+        "width": 960,
+        "path": "assets/rover-competition-team-960.webp",
+        "bytes": 90874,
+        "avif": "assets/rover-competition-team-960.avif",
+        "avif_bytes": 67945
+      },
+      {
+        "width": 1440,
+        "path": "assets/rover-competition-team-1440.webp",
+        "bytes": 174562,
+        "avif": "assets/rover-competition-team-1440.avif",
+        "avif_bytes": 133113
+      }
+    ]
+  },
+  "assets/rover-test-field.jpg": {
+    "width": 1800,
+    "height": 1350,
+    "original_bytes": 949194,
+    "variants": [
+      {
+        "width": 320,
+        "path": "assets/rover-test-field-320.webp",
+        "bytes": 14346,
+        "avif": "assets/rover-test-field-320.avif",
+        "avif_bytes": 10222
+      },
+      {
+        "width": 480,
+        "path": "assets/rover-test-field-480.webp",
+        "bytes": 30906,
+        "avif": "assets/rover-test-field-480.avif",
+        "avif_bytes": 21362
+      },
+      {
+        "width": 640,
+        "path": "assets/rover-test-field-640.webp",
+        "bytes": 53188,
+        "avif": "assets/rover-test-field-640.avif",
+        "avif_bytes": 36872
+      },
+      {
+        "width": 960,
+        "path": "assets/rover-test-field-960.webp",
+        "bytes": 116194,
+        "avif": "assets/rover-test-field-960.avif",
+        "avif_bytes": 80258
+      },
+      {
+        "width": 1440,
+        "path": "assets/rover-test-field-1440.webp",
+        "bytes": 234818,
+        "avif": "assets/rover-test-field-1440.avif",
+        "avif_bytes": 168006
+      }
+    ]
+  }
+}

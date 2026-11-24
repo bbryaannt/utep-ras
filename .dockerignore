@@ -1,0 +1,12 @@
+.git
+.github
+.openai
+.DS_Store
+**/.DS_Store
+**/__pycache__
+**/*.pyc
+exports
+.env
+.env.*
+!.env.example
+*.log
